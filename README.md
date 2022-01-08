@@ -8,3 +8,5 @@ My idea for a personal project came from wanting to improve my portfolio. I aske
 
 The most optimal way of seeing the effects of the webpage is by downloading the Github file and running the code in VS Code
 The pictures uploaded into the file will be of all the required pages that was created. I will provide screenshots of both the full desktop version and the mobile version to show the responsiveness of the webpage.
+
+This is still an ongoing project. More features will be added overtime to improve the overall project.
